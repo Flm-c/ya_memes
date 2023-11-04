@@ -98,5 +98,11 @@ body {
     color: #121723;
 }
 
+@media screen and (hover: none) { 
 
+    .card:hover {
+        box-shadow: 0 0 0 transparent;
+        transform: scale(1);
+    }
 
+}
