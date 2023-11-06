@@ -60,7 +60,11 @@
     font-size: 17px;
 }
 
+#page3 {
+    display: flex;
+    align-items: center;
+}
 
-
-
-
+.description_right audio {
+    width: 100%;
+}
